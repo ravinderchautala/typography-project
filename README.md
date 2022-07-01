@@ -1,1 +1,1 @@
-# typography-project
+# CSS Typography Project
